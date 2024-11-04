@@ -1,7 +1,7 @@
 # Hello, I'm Vasu
 <a href="https://www.linkedin.com/in/vasudevan-sambasivam/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have experience in full stack, backend development, data analysis and technical troubleshooting totaling to over 3 years of experience in the IT programming sector. I also have a diploma in Computer Engineering Technology and a degree in the Bachelor of Applied Information Systems Technology program both of which were from the Northern Alberta Institute of Technology (NAIT). I am currently persuing a Cisco CCNA certificate and would like to persue a career in Cybersecurity having networking as a launching point for a career in that space.Having said that, I also have profound interest in technology and a dedication to solving complex problems.
+I have experience in full stack, backend development, data analysis and technical troubleshooting totaling to over 3 years of experience in the IT programming sector. I also have a diploma in Computer Engineering Technology and a degree in the Bachelor of Applied Information Systems Technology program both of which were from the Northern Alberta Institute of Technology (NAIT). I am currently persuing a Cisco CCNA certificate and would like to persue a career in Cybersecurity having networking as a launching point for a career in that space. Having said that, I also have profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
 
@@ -12,7 +12,7 @@ My journey in computer science and IT has led me to develop a passion for both c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Renewable Energy Design website          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
