@@ -55,5 +55,5 @@ My journey in computer science and IT has led me to develop a passion for both c
 </div>
 
 ## Projects
-- Detection Lab
+- Small Campus Network Lab
 - SOC Automation Project
