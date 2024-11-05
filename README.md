@@ -8,7 +8,6 @@ I have experience in full stack, backend development, data analysis and technica
 My journey in computer science and IT has led me to develop a passion for both computer science and cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,7 +17,6 @@ My journey in computer science and IT has led me to develop a passion for both c
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -52,7 +50,6 @@ My journey in computer science and IT has led me to develop a passion for both c
 </div>
 
 ## Certifications in progress
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
     <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank"><img src="https://img.shields.io/badge/CCNA-In%20Progress-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA in Progress Badge" /></a>
 </div>
