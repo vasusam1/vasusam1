@@ -11,8 +11,8 @@ My journey in computer science and IT has led me to develop a passion for both c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Setup and Configuration                  | <a href="https://github.com/vasusam1/Small_Campus_Network_LAB">Small Campus Network Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Setup and Configuration               | <a href="https://github.com/vasusam1/Small_Campus_Network_LAB">Small Campus Network Lab</a> |
+| IPv6 Network Design                           | <a href="https://github.com/vasusam1/Small_Campus_Network_LAB">Small Campus Network Lab</a> |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 
