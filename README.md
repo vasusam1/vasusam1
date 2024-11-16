@@ -21,6 +21,7 @@ My journey in computer science and IT has led me to develop a passion for both c
 ### Network
 <div>
     <a href="https://www.wireshark.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark Badge" /></a>
+    <a href="https://www.netacad.com/courses/packet-tracer" target="_blank"><img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer Badge" /></a>
 </div>
 
 ### IDE
