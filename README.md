@@ -14,9 +14,9 @@ My journey in computer science and IT has led me to develop a passion for both c
 | Network Setup and Configuration                 | <a href="https://github.com/vasusam1/Small_Campus_Network_LAB">Small Campus Network Lab</a> |
 | IPv6 Network Design                             | <a href="https://github.com/vasusam1/Small_Campus_Network_LAB">Small Campus Network Lab</a> |
 | Firewall and Intrusion Detection System (IDS)   | <a href="https://github.com/vasusam1/Mimicking-firewall-and-Intrusion-Detection-System-IDS-using-Access-Control-Lists-ACLs-">Firewall and IDS Lab emulation using Packet Tracer</a> |
-| OSPF and NAT interaction with ACLs              | SOC Automation Lab|
-| Proper ICMP type filtering (echo vs echo-reply) | SOC Automation Lab|
-| Security policy creation                        | SOC Automation Lab|
+| OSPF and NAT interaction with ACLs              | <a href="https://github.com/vasusam1/CCNA-Access-Control-List--ACL-_Lab">CCNA Access Control List (ACL) Lab</a> |
+| Proper ICMP type filtering (echo vs echo-reply) | <a href="https://github.com/vasusam1/CCNA-Access-Control-List--ACL-_Lab">CCNA Access Control List (ACL) Lab</a> |
+| Security policy creation                        | <a href="https://github.com/vasusam1/CCNA-Access-Control-List--ACL-_Lab">CCNA Access Control List (ACL) Lab</a> |
 
 ## Tools
 
