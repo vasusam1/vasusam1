@@ -9,12 +9,14 @@ My journey in computer science and IT has led me to develop a passion for both c
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Network Setup and Configuration               | <a href="https://github.com/vasusam1/Small_Campus_Network_LAB">Small Campus Network Lab</a> |
-| IPv6 Network Design                           | <a href="https://github.com/vasusam1/Small_Campus_Network_LAB">Small Campus Network Lab</a> |
-| Firewall and Intrusion Detection System (IDS) | <a href="https://github.com/vasusam1/Mimicking-firewall-and-Intrusion-Detection-System-IDS-using-Access-Control-Lists-ACLs-">Firewall and IDS Lab emulation using Packet Tracer</a> |
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Skill                                           | Associated Project         |
+|-------------------------------------------------|----------------------------|
+| Network Setup and Configuration                 | <a href="https://github.com/vasusam1/Small_Campus_Network_LAB">Small Campus Network Lab</a> |
+| IPv6 Network Design                             | <a href="https://github.com/vasusam1/Small_Campus_Network_LAB">Small Campus Network Lab</a> |
+| Firewall and Intrusion Detection System (IDS)   | <a href="https://github.com/vasusam1/Mimicking-firewall-and-Intrusion-Detection-System-IDS-using-Access-Control-Lists-ACLs-">Firewall and IDS Lab emulation using Packet Tracer</a> |
+| OSPF and NAT interaction with ACLs              | SOC Automation Lab|
+| Proper ICMP type filtering (echo vs echo-reply) | SOC Automation Lab|
+| Security policy creation                        | SOC Automation Lab|
 
 ## Tools
 
