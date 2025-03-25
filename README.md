@@ -60,3 +60,4 @@ My journey in computer science and IT has led me to develop a passion for both c
 ## Projects
 - Small Campus Network Lab
 - Firewall and IDS Lab emulation using Packet Tracer
+- CCNA Access Control List (ACL) Lab
