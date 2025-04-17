@@ -54,7 +54,9 @@ My journey in computer science and IT has led me to develop a passion for both c
 
 ## Certifications in progress
 <div>
-    <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank"><img src="https://img.shields.io/badge/CCNA?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA in Progress Badge" /></a>
+    <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
+      <img src="https://img.shields.io/badge/CCNA-Certified-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Certified Badge" />
+    </a>
 </div>
 
 ## Projects
