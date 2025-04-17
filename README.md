@@ -52,9 +52,9 @@ My journey in computer science and IT has led me to develop a passion for both c
     <a href="https://learn.microsoft.com/aspnet/" target="_blank"><img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Badge" /></a>
 </div>
 
-## Certifications in progress
+## Certifications
 <div>
-    <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna.html" target="_blank">
+    <a href="https://github.com/user-attachments/files/19797259/Cisco.Certified.Network.Associate.certificate.pdf" target="_blank">
       <img src="https://img.shields.io/badge/CCNA-Certified-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Certified Badge" />
     </a>
 </div>
