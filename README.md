@@ -57,6 +57,7 @@ My journey in computer science and IT has led me to develop a passion for both c
     <a href="https://github.com/user-attachments/files/19797259/Cisco.Certified.Network.Associate.certificate.pdf" target="_blank">
       <img src="https://img.shields.io/badge/CCNA-Certified-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Certified Badge" />
     </a>
+    <img src="https://img.shields.io/badge/ITIL%20V4-Foundation%20Certified-purple?style=for-the-badge&logo=book&logoColor=white" alt="ITIL V4 Foundation Certified Badge" />
 </div>
 
 ## Projects
